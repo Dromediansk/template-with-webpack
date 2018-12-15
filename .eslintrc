@@ -1,0 +1,8 @@
+{	
+	parser: "babel-eslint",
+	"rules": {
+		no-console: "error",
+		linebreak-style: ["error", "windows"],
+	},
+	"extends": ["airbnb-base"]
+}
